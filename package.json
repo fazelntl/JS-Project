@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  },
+  "dependencies": {
+    "tailwindcss-border-gradient-radius": "^3.0.1"
+  }
+}
